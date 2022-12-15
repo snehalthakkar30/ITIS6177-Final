@@ -1,0 +1,146 @@
+{
+    "categories": [
+      {
+        "name": "people_",
+        "score": 0.34765625
+      },
+      {
+        "name": "people_portrait",
+        "score": 0.6484375
+      }
+    ],
+    "adult": {
+      "isAdultContent": false,
+      "isRacyContent": false,
+      "isGoryContent": false,
+      "adultScore": 0.0034034138079732656,
+      "racyScore": 0.004292605444788933,
+      "goreScore": 0.07217106223106384
+    },
+    "color": {
+      "dominantColorForeground": "Black",
+      "dominantColorBackground": "Grey",
+      "dominantColors": [
+        "Grey",
+        "Brown"
+      ],
+      "accentColor": "8C433F",
+      "isBwImg": false,
+      "isBWImg": false
+    },
+    "imageType": {
+      "clipArtType": 0,
+      "lineDrawingType": 0
+    },
+    "tags": [
+      {
+        "name": "smile",
+        "confidence": 0.9963093400001526
+      },
+      {
+        "name": "human face",
+        "confidence": 0.9956973791122437
+      },
+      {
+        "name": "person",
+        "confidence": 0.9949353933334351
+      },
+      {
+        "name": "clothing",
+        "confidence": 0.9409404993057251
+      },
+      {
+        "name": "fabric",
+        "confidence": 0.9268842935562134
+      },
+      {
+        "name": "eyebrow",
+        "confidence": 0.914778470993042
+      },
+      {
+        "name": "chin",
+        "confidence": 0.9036537408828735
+      },
+      {
+        "name": "portrait",
+        "confidence": 0.9032824039459229
+      },
+      {
+        "name": "lip",
+        "confidence": 0.897663950920105
+      },
+      {
+        "name": "smiling",
+        "confidence": 0.8851816654205322
+      },
+      {
+        "name": "forehead",
+        "confidence": 0.8762391209602356
+      },
+      {
+        "name": "skin",
+        "confidence": 0.8710559010505676
+      },
+      {
+        "name": "tooth",
+        "confidence": 0.869789183139801
+      },
+      {
+        "name": "portrait photography",
+        "confidence": 0.852995753288269
+      },
+      {
+        "name": "laugh",
+        "confidence": 0.8406521677970886
+      },
+      {
+        "name": "woman",
+        "confidence": 0.8295038938522339
+      },
+      {
+        "name": "indoor",
+        "confidence": 0.6004777550697327
+      },
+      {
+        "name": "headshot",
+        "confidence": 0.4114617705345154
+      }
+    ],
+    "description": {
+      "tags": [
+        "text",
+        "person"
+      ],
+      "captions": [
+        {
+          "text": "a woman smiling for the camera",
+          "confidence": 0.5344734787940979
+        }
+      ]
+    },
+    "faces": [
+      {
+        "faceRectangle": {
+          "left": 124,
+          "top": 96,
+          "width": 198,
+          "height": 198
+        }
+      }
+    ],
+    "objects": [
+      {
+        "rectangle": {
+          "x": 6,
+          "y": 3,
+          "w": 397,
+          "h": 401
+        },
+        "object": "person",
+        "confidence": 0.687
+      }
+    ],
+    "brands": []
+
+}
+   

@@ -1,0 +1,250 @@
+
+    
+{
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_portrait",
+            "score": 0.609375
+        }
+    ],
+    "adult": {
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "isGoryContent": false,
+        "adultScore": 0.0025736892130225897,
+        "racyScore": 0.004212112165987492,
+        "goreScore": 0.027681339532136917
+    },
+    "color": {
+        "dominantColorForeground": "White",
+        "dominantColorBackground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "accentColor": "131223",
+        "isBwImg": false,
+        "isBWImg": false
+    },
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "tags": [
+        {
+            "name": "person",
+            "confidence": 0.9970771074295044
+        },
+        {
+            "name": "human face",
+            "confidence": 0.9941964745521545
+        },
+        {
+            "name": "man",
+            "confidence": 0.9797025918960571
+        },
+        {
+            "name": "mobile phone",
+            "confidence": 0.9594064950942993
+        },
+        {
+            "name": "holding",
+            "confidence": 0.9139460325241089
+        },
+        {
+            "name": "clothing",
+            "confidence": 0.908976674079895
+        },
+        {
+            "name": "smile",
+            "confidence": 0.9080861806869507
+        },
+        {
+            "name": "human beard",
+            "confidence": 0.887066125869751
+        },
+        {
+            "name": "chin",
+            "confidence": 0.8797009587287903
+        },
+        {
+            "name": "facial hair",
+            "confidence": 0.8771066069602966
+        },
+        {
+            "name": "forehead",
+            "confidence": 0.8488542437553406
+        },
+        {
+            "name": "indoor",
+            "confidence": 0.5956553816795349
+        }
+    ],
+    "description": {
+        "tags": [
+            "text",
+            "person",
+            "man",
+            "holding",
+            "hand"
+        ],
+        "captions": [
+            {
+                "text": "a man holding a cell phone",
+                "confidence": 0.5575278401374817
+            }
+        ]
+    },
+    "faces": [
+        {
+            "faceRectangle": {
+                "left": 205,
+                "top": 172,
+                "width": 290,
+                "height": 290
+            }
+        }
+    ],
+    "objects": [
+        {
+            "rectangle": {
+                "x": 158,
+                "y": 215,
+                "w": 321,
+                "h": 100
+            },
+            "object": "Glasses",
+            "confidence": 0.644,
+            "parent": {
+                "object": "Personal care",
+                "confidence": 0.647
+            }
+        },
+        {
+            "rectangle": {
+                "x": 552,
+                "y": 352,
+                "w": 147,
+                "h": 254
+            },
+            "object": "cell phone",
+            "confidence": 0.849,
+            "parent": {
+                "object": "telephone",
+                "confidence": 0.85
+            }
+        },
+        {
+            "rectangle": {
+                "x": 12,
+                "y": 75,
+                "w": 704,
+                "h": 695
+            },
+            "object": "person",
+            "confidence": 0.827
+        }
+    ],
+    "brands": [],
+    "requestId": "55e70b98-92b3-4e54-9d9d-7c6e059f3fe0",
+    "metadata": {
+        "height": 774,
+        "width": 800,
+        "format": "Jpeg"
+    },
+    "modelVersion": "2021-05-01"
+},
+{
+    "description": {
+        "tags": [
+            "text",
+            "person",
+            "man",
+            "holding",
+            "hand"
+        ],
+        "captions": [
+            {
+                "text": "a man holding a cell phone",
+                "confidence": 0.5575276613235474
+            }
+        ]
+    },
+    "requestId": "c85abc5c-8a07-41b2-ac27-d8868e5cff50",
+    "metadata": {
+        "height": 774,
+        "width": 800,
+        "format": "Jpeg"
+    },
+    "modelVersion": "2021-05-01"
+}
+
+{
+    "objects": [
+        {
+            "rectangle": {
+                "x": 158,
+                "y": 215,
+                "w": 321,
+                "h": 100
+            },
+            "object": "Glasses",
+            "confidence": 0.644,
+            "parent": {
+                "object": "Personal care",
+                "confidence": 0.647
+            }
+        },
+        {
+            "rectangle": {
+                "x": 552,
+                "y": 352,
+                "w": 147,
+                "h": 254
+            },
+            "object": "cell phone",
+            "confidence": 0.849,
+            "parent": {
+                "object": "telephone",
+                "confidence": 0.85
+            }
+        },
+        {
+            "rectangle": {
+                "x": 12,
+                "y": 75,
+                "w": 704,
+                "h": 695
+            },
+            "object": "person",
+            "confidence": 0.827
+        }
+    ],
+    "requestId": "4d41428e-c765-4577-8a19-24c76477cf0b",
+    "metadata": {
+        "height": 774,
+        "width": 800,
+        "format": "Jpeg"
+    },
+    "modelVersion": "2021-04-01"
+}
+
+{
+    "areaOfInterest": {
+        "x": 0,
+        "y": 0,
+        "w": 773,
+        "h": 773
+    },
+    "requestId": "b4d994f5-266f-4d4f-ad50-c38c3ebc91b9",
+    "metadata": {
+        "height": 774,
+        "width": 800,
+        "format": "Jpeg"
+    },
+    "modelVersion": "2021-04-01"
+}
+}

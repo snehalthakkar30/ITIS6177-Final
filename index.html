@@ -1,0 +1,30 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Data</title>
+</head>
+<body>
+
+    <h1>This is a final Project for ITIS 6177</h1>
+    <hr>
+    <p>
+        Using Micrsoft Azure Computer Vision API to POST the data. <br>
+        Please extend this URL with /docs for proper documentation.
+       
+    </p>
+
+    <script>
+
+        fetch('http://159.223.178.248:3000/docs')
+            .then(response => response.json())
+            .then(data => console.log(data));
+
+        fetch('http://159.223.178.248:3000/text')
+            .then(response => response.text())
+            .then(data => console.log(data));
+
+    </script>
+
+</body>
+</html>
